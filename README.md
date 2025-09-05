@@ -9,7 +9,7 @@ Date: September 5, 2025
 Status: Submitting to arXiv (pending endorsement)  
 Patent pending: US Provisional Application 63/875,994 filed September 4, 2025  
 
-📄 [Download PDF](./2025-09-05-Kappa-Drift/A_Universal_Drift_Correction.pdf)
+📄 [Download PDF](./A_Universal_Drift_Correction_Term_for_Timing_and_Ranging_Residuals.pdf)
 
 ### Notes
 - This repository serves as a public timestamp and distribution point prior to arXiv posting.  
