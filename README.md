@@ -13,4 +13,4 @@ We introduce κ ≈ (1.0 ± 0.2) × 10⁻¹⁰ yr⁻¹, which accounts for all t
 Methods withheld (patent-pending), but empirical fits and falsifiable predictions are presented.
 
 ## Citation
-Richards, B. (2025). *A Universal Drift Correction Term for Timing and Ranging Residuals.* Entient LLC. Zenodo. https://doi.org/xxxx/yyyy
+Richards, B. (2025). *A Universal Drift Correction Term for Timing and Ranging Residuals.* Entient LLC. Zenodo. https://doi.org/10.5281/zenodo.17080346
